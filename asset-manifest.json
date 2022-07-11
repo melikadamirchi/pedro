@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pedro.git/static/css/main.9f56af60.css",
+    "main.js": "/pedro.git/static/js/main.bcd6c125.js",
+    "index.html": "/pedro.git/index.html",
+    "main.9f56af60.css.map": "/pedro.git/static/css/main.9f56af60.css.map",
+    "main.bcd6c125.js.map": "/pedro.git/static/js/main.bcd6c125.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f56af60.css",
+    "static/js/main.bcd6c125.js"
+  ]
+}
