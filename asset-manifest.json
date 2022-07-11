@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/pedro.git/static/js/main.bcd6c125.js",
-    "index.html": "/pedro.git/index.html",
-    "main.bcd6c125.js.map": "/pedro.git/static/js/main.bcd6c125.js.map"
+    "main.js": "/pedro/static/js/main.bcd6c125.js",
+    "index.html": "/pedro/index.html",
+    "main.bcd6c125.js.map": "/pedro/static/js/main.bcd6c125.js.map"
   },
   "entrypoints": [
     "static/js/main.bcd6c125.js"
